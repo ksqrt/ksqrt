@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karuww)](https://solved.ac/karuww/)
+
 <div>
 
 ## 🙋‍♂️ Info
