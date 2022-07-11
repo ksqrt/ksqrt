@@ -13,14 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hi%20There,%20&&fontColor=#FFFFFF,fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hi%20There,%20&&fontColor=#FFFFFF,fontSize=90) -->
 
 <!-- github info -->
 <div>
 
-[![ksqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksqrt)](https://github.com/ksqrt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksqrt&layout=compact)](https://github.com/ksqrt)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksqrt" width=49.2% />
+</a>
+<a href="https://github.com/ksqrt/github-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksqrt&layout=compact" width=41% />
+</a>
 
+</div>
+
+<div>
+
+<!-- [![ksqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksqrt)](https://github.com/ksqrt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksqrt&layout=compact)](https://github.com/ksqrt) -->
+
+<!-- ps solving info -->
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karuww)](https://solved.ac/karuww/)
