@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <!-- github info -->
 <div>
 
-[![ksqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksqrt)](https://github.com/ksqrt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksqrt&layout=compact)](https://github.com/ksqrt)
+[![ksqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksqrt)](https://github.com/ksqrt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksqrt&layout=compact)](https://github.com/ksqrt)
 
 </div>
 
