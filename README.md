@@ -28,16 +28,19 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-
 <!-- [![ksqrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksqrt)](https://github.com/ksqrt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksqrt&layout=compact)](https://github.com/ksqrt) -->
 
 <!-- ps solving info -->
 </div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karuww)](https://solved.ac/karuww/)
-
 <div>
+      <a href="https://solved.ac/karuww">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=karuww"width=41% />
+      </a>
+      
+<div>
+
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=karuww)](https://solved.ac/karuww/) -->
 
 ## 🙋‍♂️ Info
 
