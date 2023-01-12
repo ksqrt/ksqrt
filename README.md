@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 - Software Convergence 17
 - Email : ksqrt98@gmail.com
 - Blog : https://ksqrt.github.io
+         https://velog.io/@ksqrt
 
 ## 🔨 Technology Stacks
 
