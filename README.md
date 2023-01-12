@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 - Hongik University
 - Software Convergence 17
 - Email : ksqrt98@gmail.com
-- Blog : https://ksqrt.github.io  
-           https://velog.io/@ksqrt
+- githubBlog : https://ksqrt.github.io
+- blog :  https://velog.io/@ksqrt     
 
 ## 🔨 Technology Stacks
 
