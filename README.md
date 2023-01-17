@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 - Email : ksqrt98@gmail.com
 - GithubBlog : https://ksqrt.github.io
 - Blog :  https://velog.io/@ksqrt     
+- kaggle :  https://www.kaggle.com/ksqrt9  
 
 ## 🔨 Technology Stacks
 
