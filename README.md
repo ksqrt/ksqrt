@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-- Hongik University
+<!--- Hongik University -->
 - Software Convergence 17
 - Email : ksqrt98@gmail.com
 - Blog : https://ksqrt.github.io
