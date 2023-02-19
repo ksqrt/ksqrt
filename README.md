@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ---
 
 <!--- Hongik University -->
-- Software Convergence 17
+<!-- - Software Convergence 17 -->
 - Email : ksqrt98@gmail.com
 - Blog : https://ksqrt.github.io
 - Kaggle: https://www.kaggle.com/ksqrt9  
