@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <!-- github info -->
 <div>
+  
+  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ksqrt" width=49.2% />
@@ -46,6 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
+  <!-- email and blog info -->
 <!--- Hongik University -->
 <!-- - Software Convergence 17 -->
 - Email : ksqrt98@gmail.com
