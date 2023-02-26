@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
-  <!-- email and blog info -->
+  <!-- email  and blog info -->
 <!--- Hongik University -->
 <!-- - Software Convergence 17 -->
 - Email : ksqrt98@gmail.com
