@@ -1,6 +1,6 @@
 <!--
 **ksqrt/ksqrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,15 +10,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ...
 -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hi%20There,%20&&fontColor=#FFFFFF,fontSize=90) -->
 
 <!-- github info -->
 <div>
-  
-  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ksqrt" width=49.2% />
@@ -51,9 +49,10 @@ Here are some ideas to get you started:
   <!-- email  and blog info -->
 <!--- Hongik University -->
 <!-- - Software Convergence 17 -->
+
 - Email : ksqrt98@gmail.com
 - Blog : https://ksqrt.github.io
-- Kaggle: https://www.kaggle.com/ksqrt9  
+- Kaggle: https://www.kaggle.com/ksqrt9
 
 ## 🔨 Technology Stacks
 
@@ -74,3 +73,10 @@ Here are some ideas to get you started:
       </p>
 
   </div>
+
+## 📸 Portfolio
+
+---
+
+2023.04.17 ~ 2023.05.01  
+<a href="https://ksqrt.github.io/blog/Spring-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-copy/"> 유튜브 클론코딩 </a>
