@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 ---
 2023.06.05 ~ 2023.06.30  
-<a href="https://www.canva.com/design/DAFlqRNOHns/UGq0BE2hym8VvSQP9T4kKw/view?utm_content=DAFlqRNOHns&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> 중고거래 플랫폼 비트마켓 </a>   
+<a href="https://ksqrt.github.io/blog/Project-%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%B9%84%ED%8A%B8%EB%A7%88%EC%BC%93/"> 중고거래 플랫폼 비트마켓 </a>   
 52/135 (나의 Commit/프로젝트 전체 Commit)
 
 2023.04.17 ~ 2023.05.01  
