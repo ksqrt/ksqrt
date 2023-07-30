@@ -86,8 +86,11 @@ Here are some ideas to get you started:
 
 ---
 2023.06.05 ~ 2023.06.30  
-<a href="https://www.canva.com/design/DAFlqRNOHns/UGq0BE2hym8VvSQP9T4kKw/view?utm_content=DAFlqRNOHns&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> 중고거래 플랫폼 비트마켓 </a>
+<a href="https://www.canva.com/design/DAFlqRNOHns/UGq0BE2hym8VvSQP9T4kKw/view?utm_content=DAFlqRNOHns&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> 중고거래 플랫폼 비트마켓 </a>   
+52/135 (나의 Commit/프로젝트 전체 Commit)
 
 2023.04.17 ~ 2023.05.01  
-<a href="https://ksqrt.github.io/blog/Spring-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-copy/"> 유튜브 클론코딩 </a>
+<a href="https://ksqrt.github.io/blog/Spring-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-copy/"> 유튜브 클론코딩 </a>   
+97/312 (나의 Commit/프로젝트 전체 Commit)
+
 
