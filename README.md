@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 52/135 (나의 Commit/프로젝트 전체 Commit)
 
 2023.04.17 ~ 2023.05.01  
-<a href="https://ksqrt.github.io/blog/Spring-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-copy/"> 유튜브 클론코딩 </a>   
+<a href="https://ksqrt.github.io/blog/Project-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9/"> 유튜브 클론코딩 </a>   
 97/312 (나의 Commit/프로젝트 전체 Commit)
 
 
