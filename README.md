@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
   
   
   </p>
